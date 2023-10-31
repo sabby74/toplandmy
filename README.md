@@ -19,7 +19,7 @@
 
 ### .Built with
 
-### .Dependencies Required
+### .Dependencies-Required
 
 ### .Prerequisites
 
